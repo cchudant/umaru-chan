@@ -1,0 +1,27 @@
+{
+  "name": "umaru-chan",
+  "version": "1.0.0",
+  "description": "get a random element from an array",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: i'm dumb\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SkyBeastMC/umaru-chan.git"
+  },
+  "keywords": [
+    "random",
+    "in",
+    "array",
+    "moemoe",
+    "kyun",
+    "i like trains"
+  ],
+  "author": "SkyBeastMC",
+  "license": "GPL v3.0",
+  "bugs": {
+    "url": "http://lmgtfy.com/?q=i+hate+my+life"
+  },
+  "homepage": "https://github.com/SkyBeastMC/umaru-chan#readme"
+}
