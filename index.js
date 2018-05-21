@@ -1,2 +1,1 @@
-module.exports = array => array[Math.floor(Math.random() * array.length)]
-//please donate
+module.exports=array=>array[~~(Math.random()*array.length)]//please donate
