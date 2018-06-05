@@ -1,5 +1,7 @@
 # Umaru-chan
 
+![Umaru](https://i.imgur.com/HFt5PvP.jpg)
+
 this lets you get a random element in an array
 
 yeah seriously
