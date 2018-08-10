@@ -23,3 +23,7 @@ no you don't
 no.
 seriously.
 don't.
+
+# Project using it
+
+* [migi](https://github.com/Popcorn-moe/migi/blob/49ac9849ab68f0d2df8fd28d9d154f04d4c1e51b/package.json#L31)
